@@ -1,0 +1,4 @@
+database:
+  user: "admin"
+  password: "password1234"
+api_key: "abcd1234apikey5678"
